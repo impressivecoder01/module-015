@@ -26,3 +26,7 @@ for(let num = 0; num <= 10; num= num + 2){
 for(let num = 1; num <= 20; num = num + 2){
     console.log(num)
 }
+
+for (let i = 0; i <= 15; i++){
+    console.log('hello', i)
+}
