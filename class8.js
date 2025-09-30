@@ -16,3 +16,14 @@ do{
     i++
 }
 while(i < 5)
+
+
+    //--------------- practice
+let sum = 0;
+for(let i = 0; i<100; i++){
+    sum = sum + i;
+    if(sum >= 100){
+        break;
+    }
+    console.log(sum)
+}
